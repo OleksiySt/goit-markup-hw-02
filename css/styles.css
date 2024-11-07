@@ -91,6 +91,9 @@ h1 {
         cursor: pointer;
 }
 
+.team-section {
+    background-color: #f4f4fd;
+}
 h2 {
         font-weight: 700;
         font-size: 36px;
