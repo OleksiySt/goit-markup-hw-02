@@ -82,6 +82,7 @@ a{
     background-color: #2e2f42;
 }
 .hero-button {
+        color: #ffffff;
         background-color: #4d5ae5;
         cursor: pointer;
         font-weight: 500;
@@ -101,7 +102,7 @@ a{
 h2 {
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
@@ -130,7 +131,7 @@ color:#f4f4fd;
 .advantages-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -155,10 +156,11 @@ color:#f4f4fd;
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .team-member-name {
@@ -177,13 +179,18 @@ color:#f4f4fd;
     color: #434455;
 }
 
+.team-item {
+    background-color: #FFFFFF;
+}
+
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .portfolio-item-title {
